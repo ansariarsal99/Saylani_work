@@ -1,0 +1,82 @@
+.form
+{
+    padding-left: 160px;
+}
+.image
+{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto; 
+        width: 27%;
+        
+}
+table
+{
+    
+    background-color:#6a58ce ;
+    
+    
+}
+
+h2
+{
+    color: #6a58ce;
+    text-align: center;
+}
+
+table label
+{
+   color: seashell;
+}
+
+td 
+{
+    color: #fff;
+}
+
+.image2
+{
+        display: block;
+        margin-left: auto;
+        margin-right: auto; 
+        width: 27%;
+        
+}
+
+h1
+{
+    color: #6a58ce;
+    text-align: center;
+}
+
+/*
+table tr
+
+{
+    padding-bottom: 90px;
+}
+
+*/
+
+table td
+
+{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+
+/*
+table a
+{
+    align-items:  center;
+}
+*/
+
+.buttons
+{
+
+    
+    text-align: center;
+    background-color:#6a58ce ;
+}
